@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
@@ -50,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
