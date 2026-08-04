@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
