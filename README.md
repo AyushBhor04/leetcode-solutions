@@ -11,6 +11,7 @@
 | [0058-length-of-last-word](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
@@ -27,6 +28,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String Matching
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
