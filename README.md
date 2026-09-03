@@ -19,10 +19,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -52,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
