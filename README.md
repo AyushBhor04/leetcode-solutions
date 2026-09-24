@@ -26,6 +26,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Trie
 |  |
