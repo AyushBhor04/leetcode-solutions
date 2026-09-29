@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 | [0283-move-zeroes](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0283-move-zeroes](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1051-height-checker) |
 ## Trie
 |  |
