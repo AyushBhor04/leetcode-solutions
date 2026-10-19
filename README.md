@@ -82,6 +82,7 @@
 | [0724-find-pivot-index](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
