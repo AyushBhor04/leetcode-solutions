@@ -15,6 +15,7 @@
 | [0392-is-subsequence](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushBhor04/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushBhor04/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AyushBhor04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushBhor04/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
